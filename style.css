@@ -57,12 +57,20 @@
 
 
 .card-footer{
- 
     background-color: white !important;
     border-top: none;
     border-radius: 10px;
-    
     text-align: center;
     background-color: unset !important;
 }
+#subscribe{
+    height: 300px;
+}
 
+#subscribe h6{
+    color: gray;
+}
+
+.footer1{
+    height: 100px;
+}
